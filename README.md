@@ -30,15 +30,17 @@ situations.
 
 ### Currently Learning 📖
 
-I'm currently learning more about my programming language of choice, Python, with its more complex concepts, such as **advanced Data Structures and Analysis**, Artificial Intelligence, and JavaScript.
+I'm currently learning more about my programming language of choice, Python, with its more complex concepts, such as **advanced Data Analysis**, Artificial Intelligence, and JavaScript.
 
 ### Focuses and Ambitions 🔎
 
-My focuses and **ambtitions** are **to master** Python and JavaScript, so I can use it to **develop systems and tools** around Artifical Intelligence for real world usage.
+My focuses and **ambitions** are **to master** Python and JavaScript, so I can use it to **develop systems and tools** for real world usage, especially **around Artificial Intelligence** for powering data analysis.
 
 ### My Projects 👨🏾‍💻
 
 - **[RegEx Text Editor](https://github.com/apCoder-fan/regex-text-editor):** A text editing software built natively on Python.
+- **[Risk Reader](https://github.com/apCoder-fan/risk-reader-software):** An automated risk reader built on Python, around the Gemini model, to search for unfavourable terms and risks in legal and personal agreements (ToS, Ultimatums, etc.)
+
 
 ## Dev Quote
 
