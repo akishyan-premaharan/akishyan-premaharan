@@ -46,15 +46,16 @@ situations.
 ## Education in Programming
 
 Overall, I learned programming from a both an actual ISTE-certified STEM Education program along with many free resources online.
-In the STEM Program I am in, I'm in the level "Brown Belt", where I am close to finishing **Static Typescript for Beginner Game Development.**
 
-My learning journey started when I was eight, from tinkering around Block Code in MakeCode to Scratch to Static Typescript to languages such as Python, JavaScript, HTML, BASH, and Markdown!
+In my STEM Program, I'm in the rank "Brown Belt" where I am close to finishing **Static Typescript for Beginner Game Development.**
 
 ![CodeNinjas IMPACT Program for Static TypeScript/Beginner Game Development](https://img.shields.io/badge/CodeNinjas%20IMPACT%20Program%20for%20Game%20Development-5C3B0D?style=for-the-badge&logo=typescript&logoColor=white)
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
 ![Roadmaps.sh](https://img.shields.io/badge/roadmaps.sh-%23FFB319.svg?style=for-the-badge&logo=roadmap&logoColor=black)
 ![Asabeneh's 30 Day Programming Challenges](https://img.shields.io/badge/Asabeneh's%2030%20Day%20Programming%20Challenges-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![YouTube Tutorials](https://img.shields.io/badge/YouTube%20Tutorials-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+My learning journey started when I was around seven and a half, tinkering around block code from Microsoft MakeCode in Minecraft Education Edition, to game development in Scratch, to Static Typescript, and finally to languages such as Python, JavaScript, HTML, BASH, and Markdown.
 
 # Currently Learning 📖
 
