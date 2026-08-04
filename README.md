@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-### My name is apCoder-fan 
+### My name is Akishyan Premaharan
 
   I'm a beginner software developer, enthusiastic **to learn more** about programming as well as **applying** my current programming skills **to help with** common/real world 
 situations.
@@ -38,8 +38,8 @@ My focuses and **ambitions** are **to master** Python and JavaScript, so I can u
 
 ### My Projects 👨🏾‍💻
 
-- **[RegEx Text Editor](https://github.com/apCoder-fan/regex-text-editor):** A text editing software built natively on Python.
-- **[Risk Reader](https://github.com/apCoder-fan/risk-reader-software):** An automated risk reader built on Python, around the Gemini model, to search for unfavourable terms and risks in legal and personal agreements (ToS, Ultimatums, etc.)
+- **[RegEx Text Editor](https://github.com/akishyan-premaharan/regex-text-editor):** A text editing software built natively on Python.
+- **[Risk Reader](https://github.com/akishyan-premaharan/risk-reader-software):** An automated risk reader built on Python, around the Gemini model, to search for unfavourable terms and risks in legal and personal agreements (ToS, Ultimatums, etc.)
 
 
 ## Dev Quote
