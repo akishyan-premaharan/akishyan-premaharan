@@ -15,7 +15,7 @@ situations.
 
 # Technology Stack 💻 
 
-## Languages 🔤
+### Languages 🔤
 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -27,8 +27,11 @@ situations.
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
  ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
  
-## Developer Environments & Tools 🌐
+### Developer Environments & Tools 🌐
 
+![TextEdit](https://img.shields.io/badge/TextEdit-6986C9.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![PXT](https://img.shields.io/badge/PXT%20Framework-%23470CA6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -41,22 +44,22 @@ situations.
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-## Digital Design Tools 🎨
+### Digital Design and Video Editing Tools 🎨
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Pixlr](https://img.shields.io/badge/Pixlr-%23333A9E.svg?style=for-the-badge&logo=Pixlr&logoColor=white)
 ![Adobe Express](https://img.shields.io/badge/Adobe%20Express-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![IMovie](https://img.shields.io/badge/IMovie-4B3263?style=for-the-badge&logo=apple&logoColor=white)
 
-## Data Analysis Packages 📊
+### Packages for Beginner Data Analysis 📊
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Regular Expressions](https://img.shields.io/badge/Regular‎%20Expressions-5277C3.svg?style=for-the-badge&logo=regular-expressions&logoColor=blue)
 ![Datetime](https://img.shields.io/badge/datetime-2E7D32.svg?style=for-the-badge&logo=datetime&logoColor=white)
 
-## Education in Programming
+### Education in Programming
 
 Overall, I learned programming from a both an actual ISTE-certified STEM Education program along with many free resources online.
-
 In my STEM Program, I'm in the rank "Brown Belt" where I am close to finishing **Static Typescript for Beginner Game Development.**
 
 ![CodeNinjas IMPACT Program for Static TypeScript/Beginner Game Development](https://img.shields.io/badge/CodeNinjas%20IMPACT%20Program%20for%20Game%20Development-5C3B0D?style=for-the-badge&logo=typescript&logoColor=white)
@@ -69,13 +72,13 @@ My learning journey started when I was around seven and a half, tinkering around
 
 # Currently Learning 📖
 
-## For Programming 
+### For Programming 
 
 I'm currently learning more about my programming language of choice, Python, with its more complex concepts, such as **advanced Data Analysis**, Computer Science concepts such as Computer Networks, and the basics of Frontend development (HTML, CSS, JavaScript).
 
-## For Digital Skills 
+### For Digital Skills 
 
-I'm currently learning to utilize more software, such as Adobe Express and Operating System Terminals (Both I know only the basics as of right now) for sectors such as Digital Design and File Management.
+I'm currently exploring more software, such as Adobe Express and Operating System Terminals (Both I know only the basics as of right now) for sectors such as Digital Design and File Management. 
 
 # Focuses and Ambitions 🔎
 
