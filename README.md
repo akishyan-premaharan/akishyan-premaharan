@@ -5,6 +5,14 @@
   I'm a beginner software developer/digital assistant, enthusiastic **to learn more** about programming and digital skills as well as **applying** my current programming/digital skills **to help with** common/real world 
 situations.
 
+# My Projects 👨🏾‍💻
+
+| Project| Description|
+|:--------|:----------|
+|**[Python Text Editor](https://github.com/akishyan-premaharan/python-regex-text-editor)**| A text editing software built natively on Python
+|**[Risk Reader](https://github.com/akishyan-premaharan/risk-reader-software)**| An AI-automated risk reader built on Python, to search for unfavourable terms and risks in legal and personal agreements (ToS, Ultimatums, etc.)
+|**[JavaScript Text Editor](https://github.com/akishyan-premaharan/js-text-editor)**| A JavaScript coded text editing software that has HTML & Inline CSS3 GUI|
+
 # Technology Stack 💻 
 
 ## Languages 🔤
@@ -16,6 +24,8 @@ situations.
  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
  ![BASH Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
  ![Scratch](https://img.shields.io/badge/Scratch-%23FF6600.svg?style=for-the-badge&logo=scratch&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+ ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
  
 ## Developer Environments & Tools 🌐
 
@@ -70,12 +80,6 @@ I'm currently learning to utilize more software, such as Adobe Express and Opera
 # Focuses and Ambitions 🔎
 
 My focuses and **ambitions** are **to master** Frontend development (HTML, CSS, Javascript), Data Analysis through Python, and **to have a variety** of software to use for professional usage, as well as using my programming knowledge to build applications, systems, and websites.
-
-
-# My Projects 👨🏾‍💻
-
-- **[RegEx Text Editor](https://github.com/akishyan-premaharan/regex-text-editor):** A text editing software built natively on Python.
-- **[Risk Reader](https://github.com/akishyan-premaharan/risk-reader-software):** An automated risk reader built on Python, around the Gemini model, to search for unfavourable terms and risks in legal and personal agreements (ToS, Ultimatums, etc.)
 
 ## Quotes
 
