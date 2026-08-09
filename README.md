@@ -24,8 +24,7 @@ situations.
  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
  ![BASH Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
  ![Scratch](https://img.shields.io/badge/Scratch-%23FF6600.svg?style=for-the-badge&logo=scratch&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
- ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+ ![CSS3 (Inline Methods)](https://img.shields.io/badge/css3%20(Inline%20Methods)-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
  
 ### Developer Environments & Tools 🌐
 
