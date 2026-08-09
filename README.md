@@ -38,8 +38,6 @@ situations.
 ![MacOS Terminal](https://img.shields.io/badge/MacOS%20Terminal-6986C9.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0E2BAD.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![TextEdit](https://img.shields.io/badge/TextEdit-6986C9.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ### Digital Design and Video Editing Tools 🎨
