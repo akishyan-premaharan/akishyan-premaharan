@@ -9,7 +9,7 @@ situations.
 
 | Project| Description|
 |:--------|:----------|
-|**[Python Text Editor](https://github.com/akishyan-premaharan/python-regex-text-editor)**| A text editing software built natively on Python
+|**[Python Text Editor](https://github.com/akishyan-premaharan/python-text-editor)**| A text editing software built natively on Python
 |**[Risk Reader](https://github.com/akishyan-premaharan/risk-reader-software)**| An AI-automated risk reader built on Python, to search for unfavourable terms and risks in legal and personal agreements (ToS, Ultimatums, etc.)
 |**[JavaScript Text Editor](https://github.com/akishyan-premaharan/js-text-editor)**| A JavaScript coded text editing software that has HTML & Inline CSS3 GUI|
 
