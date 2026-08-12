@@ -17,18 +17,17 @@ situations.
 
 ### Languages 🔤
 
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
- ![Static TypeScript](https://img.shields.io/badge/static%20typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
- ![BASH Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+ ![Python](https://img.shields.io/badge/python%20(intermediate)-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+ ![JavaScript](https://img.shields.io/badge/javascript%20(beginner)-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+ ![MakeCode Arcade TypeScript](https://img.shields.io/badge/makecode%20arcade%20typescript%20(intermediate)-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5%20(beginner)-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![Markdown](https://img.shields.io/badge/markdown%20(intermediate)-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+ ![BASH Script](https://img.shields.io/badge/bash_script%20(basics/minimal)-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3 (Inline Methods)](https://img.shields.io/badge/css3%20Inline%20Methods%20(basics/minimal)-1036C9.svg?style=for-the-badge&logo=css&logoColor=white)
  ![Scratch](https://img.shields.io/badge/Scratch-%23FF6600.svg?style=for-the-badge&logo=scratch&logoColor=white)
- ![CSS3 (Inline Methods)](https://img.shields.io/badge/css3%20(Inline%20Methods)-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
  
 ### Developer Environments & Tools 🌐
 
-![TextEdit](https://img.shields.io/badge/TextEdit-6986C9.svg?style=for-the-badge&logo=apple&logoColor=white)
+![TextEdit](https://img.shields.io/badge/TextEdit-D2D6E0.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -36,7 +35,7 @@ situations.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![MacOS Terminal](https://img.shields.io/badge/MacOS%20Terminal-6986C9.svg?style=for-the-badge&logo=apple&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0E2BAD.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![VSCode](https://img.shields.io/badge/VSCode-0065A9.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
@@ -74,7 +73,7 @@ I'm currently learning more about my programming language of choice, Python, wit
 
 ### For Digital Skills 
 
-I'm currently exploring more software, such as Adobe Express and Operating System Terminals (Both I know only the basics as of right now) for sectors such as Digital Design and File Management. 
+I'm currently exploring more software, such as the very basics of Adobe Express and Terminal (MacOS/Linux as they both use BASH) for basic design and basic folder management.
 
 # Focuses and Ambitions 🔎
 
