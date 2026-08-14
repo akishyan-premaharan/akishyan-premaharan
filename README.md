@@ -33,8 +33,8 @@ situations.
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/notebook)
 [![VSCode](https://img.shields.io/badge/VSCode-0065A9.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![MakeCode Arcade](https://img.shields.io/badge/MakeCode%20Arcade-%23470CA6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://arcade.makecode.com/#editor)
-[![OneComplier.com](https://img.shields.io/badge/OneComplier.com-2563EB.svg?style=for-the-badge&logo=onecomplier.com&logoColor=white)](https://onecomplier.com)
-[![Pythoncomplier.io](https://img.shields.io/badge/pythoncomplier.io-1B2A3A?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pythoncomplier)
+[![OneComplier.com](https://img.shields.io/badge/OneComplier.com-2563EB.svg?style=for-the-badge&logo=onecomplier.com&logoColor=white)]([https://onecomplier.com/)]
+[![Pythoncomplier.io](https://img.shields.io/badge/pythoncomplier.io-1B2A3A?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pythoncomplier.io/)
 
 
 #### Other Environments 
