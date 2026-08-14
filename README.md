@@ -33,12 +33,15 @@ situations.
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/notebook)
 [![VSCode](https://img.shields.io/badge/VSCode-0065A9.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![MakeCode Arcade](https://img.shields.io/badge/MakeCode%20Arcade-%23470CA6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://arcade.makecode.com/#editor)
+[![OneComplier.com](https://img.shields.io/badge/OneComplier.com-2563EB.svg?style=for-the-badge&logo=onecomplier.com&logoColor=white)](https://onecomplier.com)
+[![Pythoncomplier.io](https://img.shields.io/badge/pythoncomplier.io-1B2A3A?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pythoncomplier)
+
 
 #### Other Environments 
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://colab.research.google.com/notebook)
 [![PXT](https://img.shields.io/badge/PXT%20Framework-%23470CA6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://arcade.makecode.com/#editor)
 [![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://developer.chrome.com/docs/devtools/inspect-mode)
-[![MacOS Terminal](https://img.shields.io/badge/MacOS%20Terminal-6986C9.svg?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Terminal_(macOS))
+[![MacOS Terminal (BASH)](https://img.shields.io/badge/MacOS%20Terminal%20(BASH)-6986C9.svg?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Terminal_(macOS))
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome%20(Browser%20for%20Frontend%20Code)-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
 
 #### General Developer Utilities 
