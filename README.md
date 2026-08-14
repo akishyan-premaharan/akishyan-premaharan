@@ -28,7 +28,7 @@ situations.
 ### Developer Tools 🛠
 
 #### Code Editors/IDEs 
-[![TextEdit](https://img.shields.io/badge/TextEdit-D2D6E0.svg?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/textedit-text-editor/id1070883678)
+[![TextEdit](https://img.shields.io/badge/TextEdit-6986C9.svg?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/textedit-text-editor/id1070883678)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/notebook)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/notebook)
 [![VSCode](https://img.shields.io/badge/VSCode-0065A9.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -39,6 +39,7 @@ situations.
 [![PXT](https://img.shields.io/badge/PXT%20Framework-%23470CA6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://arcade.makecode.com/#editor)
 [![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://developer.chrome.com/docs/devtools/inspect-mode)
 [![MacOS Terminal](https://img.shields.io/badge/MacOS%20Terminal-6986C9.svg?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Terminal_(macOS))
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome%20(Browser%20for%20Frontend%20Code)-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
 
 #### General Developer Utilities 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
