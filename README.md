@@ -61,6 +61,9 @@ situations.
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![Regular Expressions](https://img.shields.io/badge/Regular‎%20Expressions-5277C3.svg?style=for-the-badge&logo=regular-expressions&logoColor=blue)](https://docs.python.org/3/library/re.html)
 [![Datetime](https://img.shields.io/badge/datetime-2E7D32.svg?style=for-the-badge&logo=datetime&logoColor=white)](https://docs.python.org/3/library/datetime.html)
+[![Random for creating Data](https://img.shields.io/badge/random%20(for%20creating%20data)-D4602A.svg?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/random.html)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
 
 ### Education in Programming
 
