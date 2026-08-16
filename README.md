@@ -49,12 +49,20 @@ situations.
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/questions)
 
-### Digital Design and Video Editing Tools 🎨
+### Other Productivity Software
 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://canva.com)
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/intl/en/products/sheets/)
 [![Pixlr Express](https://img.shields.io/badge/Pixlr%20Express-%23333A9E.svg?style=for-the-badge&logo=Pixlr&logoColor=white)](https://pixlr.com/express/)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://workspace.google.com/intl/en/products/drive/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
 [![Adobe Express](https://img.shields.io/badge/Adobe%20Express-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/express/)
 [![IMovie](https://img.shields.io/badge/IMovie-4B3263?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ca/imovie/)
+[![Google Docs](https://img.shields.io/badge/Google%20Docs-3086F6.svg?style=for-the-badge&logo=googledocs&logoColor=white)](https://workspace.google.com/intl/en/products/docs/)
+[![macOS](https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=F0F0F0&logoSize=auto)](https://en.wikipedia.org/wiki/MacOS_Monterey)
+[![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://google.com)
+[![Google Meet](https://img.shields.io/badge/Google%20Meet-%2300897B.svg?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com/)
+[![Brave](https://img.shields.io/badge/Brave-%23FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com)
 
 ### Packages for Beginner Data Analysis 📊
 
