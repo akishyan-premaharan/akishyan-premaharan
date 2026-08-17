@@ -13,6 +13,7 @@ situations.
 |**[Risk Reader](https://github.com/akishyan-premaharan/risk-reader-software)**| An AI-automated risk reader built on Python, to search for unfavourable terms and risks in legal and personal agreements (ToS, Ultimatums, etc.)
 |**[Lua Password Generator](https://github.com/akishyan-premaharan/lua-password-generator)**|A password generation algorithm following **real life international cybersecurity** protocols that was made under a personal challenge to try to learn basic Lua!|
 |**[JavaScript Text Editor](https://github.com/akishyan-premaharan/js-text-editor)**| A JavaScript coded text editing software that has HTML & Inline CSS3 GUI|
+|**[Procedural Image Engine](https://github.com/akishyan-premaharan/procedural-image-engine)**| A basic 2D graphics engine built on **the PXT Framework/MakeCode Arcade** TypeScript that makes randomly generated/**procedurally generated** images!|
 
 # Technology Stack 💻 
 
