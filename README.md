@@ -11,6 +11,7 @@ situations.
 |:--------|:----------|
 |**[Python Text Editor](https://github.com/akishyan-premaharan/python-text-editor)**| A text editing software built natively on Python
 |**[Risk Reader](https://github.com/akishyan-premaharan/risk-reader-software)**| An AI-automated risk reader built on Python, to search for unfavourable terms and risks in legal and personal agreements (ToS, Ultimatums, etc.)
+|**[Lua Password Generator](https://github.com/akishyan-premaharan/lua-password-generator)**|A password generation algorithm following **real life international cybersecurity** protocols that was made under a personal challenge to try to learn basic Lua!|
 |**[JavaScript Text Editor](https://github.com/akishyan-premaharan/js-text-editor)**| A JavaScript coded text editing software that has HTML & Inline CSS3 GUI|
 
 # Technology Stack 💻 
