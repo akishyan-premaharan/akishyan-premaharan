@@ -53,16 +53,11 @@ situations.
 ### Other Productivity Software
 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://canva.com)
-[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/intl/en/products/sheets/)
 [![Pixlr Express](https://img.shields.io/badge/Pixlr%20Express-%23333A9E.svg?style=for-the-badge&logo=Pixlr&logoColor=white)](https://pixlr.com/express/)
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://workspace.google.com/intl/en/products/drive/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
 [![Adobe Express](https://img.shields.io/badge/Adobe%20Express-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/express/)
 [![IMovie](https://img.shields.io/badge/IMovie-4B3263?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ca/imovie/)
-[![Google Docs](https://img.shields.io/badge/Google%20Docs-3086F6.svg?style=for-the-badge&logo=googledocs&logoColor=white)](https://workspace.google.com/intl/en/products/docs/)
 [![macOS](https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=F0F0F0&logoSize=auto)](https://en.wikipedia.org/wiki/MacOS_Monterey)
-[![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://google.com)
-[![Google Meet](https://img.shields.io/badge/Google%20Meet-%2300897B.svg?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com/)
+[![Google Apps](https://img.shields.io/badge/google%20apps-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://google.com)
 [![Brave](https://img.shields.io/badge/Brave-%23FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com)
 
 ### Packages for Beginner Data Analysis 📊
@@ -76,14 +71,7 @@ situations.
 
 ### Education in Programming
 
-Overall, I learned programming from a both an actual ISTE-certified STEM Education program along with many free resources online.
-In my STEM Program, I'm in the rank "Brown Belt" where I am close to finishing **MakeCode Arcade for Game Development.**
-
-[![CodeNinjas IMPACT Program for Game Development](https://img.shields.io/badge/CodeNinjas%20IMPACT%20Program%20for%20Game%20Development-5C3B0D?style=for-the-badge&logo=typescript&logoColor=white)](https://impact.codeninjas.com)
-[![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/Main_Page)
-[![Roadmap.sh](https://img.shields.io/badge/roadmap.sh-%23FFB319.svg?style=for-the-badge&logo=roadmap&logoColor=black)](https://roadmap.sh)
-[![Asabeneh's 30 Day Programming Challenges](https://img.shields.io/badge/Asabeneh's%2030%20Day%20Programming%20Challenges-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asabeneh)
-[![YouTube Tutorials](https://img.shields.io/badge/YouTube%20Tutorials-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com)
+Overall, I learned programming from a both an actual ISTE-certified STEM Education program, CodeNinjas, along with many free resources online. In my STEM Program, I'm in the rank "Brown Belt" where I am close to finishing **MakeCode Arcade for Game Development.**
 
 My learning journey started when I was around seven and a half, tinkering around block code from Microsoft MakeCode in Minecraft Education Edition, to game development in Scratch, to MakeCode Arcade Typescript, and finally to languages such as Python, JavaScript, HTML, BASH, and Markdown.
 
