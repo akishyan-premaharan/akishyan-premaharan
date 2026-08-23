@@ -88,7 +88,7 @@ I'm currently exploring more software, such as the very basics of Adobe Express 
 
 # Focuses and Ambitions 🔎
 
-My focuses and **ambitions** are **to master** Frontend development (HTML, CSS, Javascript), Data Analysis through Python, and **to have a variety** of software to use for professional usage, as well as using my programming knowledge to build applications, systems, and websites.
+My focuses and **ambitions** are **to master** full stack development, and **to have a variety** of software to use for professional usage, as well as using my programming knowledge to build applications, systems, and websites.
 
 ## Quotes
 
