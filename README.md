@@ -72,23 +72,25 @@ situations.
 
 ### Education in Programming
 
-Overall, I learned programming from a both an actual ISTE-certified STEM Education program, CodeNinjas, along with many free resources online. In my STEM Program, I'm in the rank "Brown Belt" where I am close to finishing **MakeCode Arcade for Game Development.**
+Overall, I learned programming from both an actual ISTE-certified STEM Education program, CodeNinjas, and many free resources online.
 
-My learning journey started when I was around seven and a half, tinkering around block code from Microsoft MakeCode in Minecraft Education Edition, to game development in Scratch, to MakeCode Arcade Typescript, and finally to languages such as Python, JavaScript, HTML, BASH, and Markdown.
+In my program, I will soon finish the PXT framework for Game development.
+
+My journey started when I was around seven and a half, tinkering around block code in very basic languages (Scratch, MakeCode), to MakeCode Arcade Typescript, and finally to languages such as Python & JavaScript.
+
+# Focuses and Ambitions 🔎
+
+My focuses and **ambitions** are **to pursue** full stack development, and **to have a variety** of software to use for professional usage, as well as using my programming knowledge to build applications, systems, and websites.
 
 # Currently Learning 📖
 
 ### For Programming 
 
-I'm currently learning more about my programming language of choice, Python, with its more complex concepts, such as **advanced Data Analysis**, Computer Science concepts such as Computer Networks, and the basics of Frontend development (HTML, CSS, JavaScript).
+I'm currently learning more about OOP (Object Oriented Programming), data science libraries **in Python (My primary language)**, frontend (HTML/CSS/JavaScript), along with shell scripting for automation. 
 
 ### For Digital Skills 
 
-I'm currently exploring more software, such as the very basics of Adobe Express and Terminal (MacOS/Linux as they both use BASH) for basic design and basic folder management.
-
-# Focuses and Ambitions 🔎
-
-My focuses and **ambitions** are **to master** full stack development, and **to have a variety** of software to use for professional usage, as well as using my programming knowledge to build applications, systems, and websites.
+I'm currently exploring more software, such as the very basics of Adobe Express for basic design.
 
 ## Quotes
 
