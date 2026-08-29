@@ -2,7 +2,7 @@
 
 ### My name is Akishyan Premaharan
 
-  I'm a beginner software developer/digital assistant, enthusiastic **to learn more** about programming and digital skills as well as **applying** my current programming/digital skills **to help with** common/real world 
+  I'm a student software developer/digital assistant, enthusiastic **to learn more** about programming and digital skills as well as **applying** my current programming/digital skills **to help with** common/real world 
 situations.
 
 # My Projects 👨🏾‍💻
@@ -24,7 +24,7 @@ situations.
  [![MakeCode Arcade TypeScript](https://img.shields.io/badge/makecode%20arcade%20typescript%20(intermediate)-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://arcade.makecode.com/#editor)
  [![HTML5](https://img.shields.io/badge/html5%20(beginner)-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
  [![Markdown](https://img.shields.io/badge/markdown%20(intermediate)-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://stackedit.io/app#)
-[![BASH Script](https://img.shields.io/badge/bash_script%20(basics/minimal)-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) [![CSS3 (Inline Methods)](https://img.shields.io/badge/css3%20Inline%20Methods%20(basics/minimal)-1036C9.svg?style=for-the-badge&logo=css&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![BASH Script](https://img.shields.io/badge/bash_script%20(basics/minimal)-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) [![CSS3](https://img.shields.io/badge/css3%20(beginner)-1036C9.svg?style=for-the-badge&logo=css&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
  [![Scratch](https://img.shields.io/badge/Scratch-%23FF6600.svg?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu)
  
 ### Developer Tools 🛠
@@ -42,9 +42,9 @@ situations.
 #### Other Environments 
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://colab.research.google.com/notebook)
 [![PXT](https://img.shields.io/badge/PXT%20Framework-%23470CA6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://arcade.makecode.com/#editor)
-[![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://developer.chrome.com/docs/devtools/inspect-mode)
-[![MacOS Terminal (BASH)](https://img.shields.io/badge/MacOS%20Terminal%20(BASH)-6986C9.svg?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Terminal_(macOS))
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome%20(Browser%20for%20Frontend%20Code)-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome%20-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
+[![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools%20-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
+
 
 #### General Developer Utilities 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -61,7 +61,7 @@ situations.
 [![Google Apps](https://img.shields.io/badge/google%20apps-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://google.com)
 [![Brave](https://img.shields.io/badge/Brave-%23FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com)
 
-### Packages for Beginner Data Analysis 📊
+### Packages for Data Analysis 📊
 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![Regular Expressions](https://img.shields.io/badge/Regular‎%20Expressions-5277C3.svg?style=for-the-badge&logo=regular-expressions&logoColor=blue)](https://docs.python.org/3/library/re.html)
