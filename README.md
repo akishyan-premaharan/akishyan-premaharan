@@ -9,10 +9,10 @@ situations.
 
 | Project| Description|
 |:--------|:----------|
-|**[Python Text Editor](https://github.com/akishyan-premaharan/python-text-editor)**| A text editing software built natively on Python
+|**[JavaScript Text Editor](https://github.com/akishyan-premaharan/js-text-editor)**| A Web text processor written in JavaScript/HTML/CSS3|
+|**[Python Text Editor](https://github.com/akishyan-premaharan/python-text-editor)**| A command line text editor built natively on Python, that features text analysis, generation, and data visualization with Python's data science libraries
 |**[Risk Reader](https://github.com/akishyan-premaharan/risk-reader-software)**| An AI-automated risk reader built on Python, to search for unfavourable terms and risks in legal and personal agreements (ToS, Ultimatums, etc.)
 |**[Lua Password Generator](https://github.com/akishyan-premaharan/lua-password-generator)**|A password generation algorithm following **real life international cybersecurity** protocols that was made under a personal challenge to try to learn basic Lua!|
-|**[JavaScript Text Editor](https://github.com/akishyan-premaharan/js-text-editor)**| A JavaScript coded text editing software that has HTML & Inline CSS3 GUI|
 |**[Procedural Image Engine](https://github.com/akishyan-premaharan/procedural-image-engine)**| A basic 2D image generator made with **the PXT Framework/MakeCode Arcade** TypeScript that makes randomly generated/**computer generated** images!|
 
 # Technology Stack 💻 
