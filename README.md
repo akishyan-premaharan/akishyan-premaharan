@@ -11,20 +11,21 @@ situations.
 |:--------|:----------|
 |**[JavaScript Text Editor](https://github.com/akishyan-premaharan/js-text-editor)**| A Web text processor written in JavaScript/HTML/CSS3|
 |**[Python Text Editor](https://github.com/akishyan-premaharan/python-text-editor)**| A command line text editor built natively on Python, that features text analysis, generation, and data visualization with Python's data science libraries
-|**[Risk Reader](https://github.com/akishyan-premaharan/risk-reader-software)**| An AI-automated risk reader built on Python, to search for unfavourable terms and risks in legal and personal agreements (ToS, Ultimatums, etc.)
-|**[Lua Password Generator](https://github.com/akishyan-premaharan/lua-password-generator)**|A password generation algorithm following **real life international cybersecurity** protocols that was made under a personal challenge to try to learn basic Lua!|
+|**[ConchEdit](https://github.com/akishyan-premaharan/ConchEdit)**| A developer environment built on BASH, with version control/syntax highlighting, powered by Unix/GNU software|
+|**[Risk Reader](https://github.com/akishyan-premaharan/risk-reader-software)**| An AI-automated risk reader built on Python, to search for unfavourable terms and risks in legal and personal agreements (ToS, Ultimatums, etc.)|
 |**[Procedural Image Engine](https://github.com/akishyan-premaharan/procedural-image-engine)**| A basic 2D image generator made with **the PXT Framework/MakeCode Arcade** TypeScript that makes randomly generated/**computer generated** images!|
+|**[Lua Password Generator](https://github.com/akishyan-premaharan/lua-password-generator)**|A password generation algorithm following **real life international cybersecurity** protocols that was made under a personal challenge to try to learn basic Lua!|
 
 # Technology Stack 💻 
 
 ### Languages 🔤
 
  [![Python](https://img.shields.io/badge/python%20(intermediate)-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
- [![JavaScript](https://img.shields.io/badge/javascript%20(beginner)-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://tc39.es)
+ [![JavaScript](https://img.shields.io/badge/javascript%20(intermediate)-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://tc39.es)
  [![MakeCode Arcade TypeScript](https://img.shields.io/badge/makecode%20arcade%20typescript%20(intermediate)-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://arcade.makecode.com/#editor)
- [![HTML5](https://img.shields.io/badge/html5%20(beginner)-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+ [![HTML5](https://img.shields.io/badge/html5%20(intermediate)-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
  [![Markdown](https://img.shields.io/badge/markdown%20(intermediate)-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://stackedit.io/app#)
-[![BASH Script](https://img.shields.io/badge/bash_script%20(basics/minimal)-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) [![CSS3](https://img.shields.io/badge/css3%20(beginner)-1036C9.svg?style=for-the-badge&logo=css&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![BASH Script](https://img.shields.io/badge/bash_script%20(beginner)-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) [![CSS3](https://img.shields.io/badge/css3%20(beginner)-1036C9.svg?style=for-the-badge&logo=css&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
  [![Scratch](https://img.shields.io/badge/Scratch-%23FF6600.svg?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu)
  
 ### Developer Tools 🛠
@@ -44,7 +45,7 @@ situations.
 [![PXT](https://img.shields.io/badge/PXT%20Framework-%23470CA6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://arcade.makecode.com/#editor)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome%20-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
 [![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools%20-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
-
+![Linux Kernel VM](https://img.shields.io/badge/Linux%20Kernel%20VM-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 #### General Developer Utilities 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
