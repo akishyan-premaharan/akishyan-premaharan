@@ -12,6 +12,7 @@ situations.
 |**[JavaScript Text Editor](https://github.com/akishyan-premaharan/js-text-editor)**| A Web text processor written in JavaScript/HTML/CSS3|
 |**[Python Text Editor](https://github.com/akishyan-premaharan/python-text-editor)**| A command line text editor built natively on Python, that features text analysis, generation, and data visualization with Python's data science libraries
 |**[ConchEdit](https://github.com/akishyan-premaharan/ConchEdit)**| A developer environment built on BASH, with version control/syntax highlighting, powered by Unix/GNU software|
+|**[Artifical Neuron](https://github.com/akishyan-premaharan/neuron)**| A number prediction neuron built on the PyTorch library|
 |**[Risk Reader](https://github.com/akishyan-premaharan/risk-reader-software)**| An AI-automated risk reader built on Python, to search for unfavourable terms and risks in legal and personal agreements (ToS, Ultimatums, etc.)|
 |**[Procedural Image Engine](https://github.com/akishyan-premaharan/procedural-image-engine)**| A basic 2D image generator made with **the PXT Framework/MakeCode Arcade** TypeScript that makes randomly generated/**computer generated** images!|
 |**[Lua Password Generator](https://github.com/akishyan-premaharan/lua-password-generator)**|A password generation algorithm following **real life international cybersecurity** protocols that was made under a personal challenge to try to learn basic Lua!|
@@ -41,7 +42,6 @@ situations.
 
 
 #### Other Environments 
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://colab.research.google.com/notebook)
 [![PXT](https://img.shields.io/badge/PXT%20Framework-%23470CA6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://arcade.makecode.com/#editor)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome%20-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
 [![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools%20-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
@@ -62,7 +62,11 @@ situations.
 [![Google Apps](https://img.shields.io/badge/google%20apps-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://google.com)
 [![Brave](https://img.shields.io/badge/Brave-%23FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com)
 
-### Data Science Libraries
+### 🌐  Hosting 
+
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://colab.research.google.com/notebook)
+
+### 📊  Data Science Libraries
 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![Regular Expressions](https://img.shields.io/badge/Regular‎%20Expressions-5277C3.svg?style=for-the-badge&logo=regular-expressions&logoColor=blue)](https://docs.python.org/3/library/re.html)
