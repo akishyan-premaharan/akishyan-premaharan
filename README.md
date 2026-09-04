@@ -62,7 +62,7 @@ situations.
 [![Google Apps](https://img.shields.io/badge/google%20apps-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://google.com)
 [![Brave](https://img.shields.io/badge/Brave-%23FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com)
 
-### Packages for Data Analysis 📊
+### Data Science Libraries
 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![Regular Expressions](https://img.shields.io/badge/Regular‎%20Expressions-5277C3.svg?style=for-the-badge&logo=regular-expressions&logoColor=blue)](https://docs.python.org/3/library/re.html)
