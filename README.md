@@ -58,9 +58,8 @@ situations.
 [![Pixlr Express](https://img.shields.io/badge/Pixlr%20Express-%23333A9E.svg?style=for-the-badge&logo=Pixlr&logoColor=white)](https://pixlr.com/express/)
 [![Adobe Express](https://img.shields.io/badge/Adobe%20Express-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/express/)
 [![IMovie](https://img.shields.io/badge/IMovie-4B3263?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ca/imovie/)
-[![macOS](https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=F0F0F0&logoSize=auto)](https://en.wikipedia.org/wiki/MacOS_Monterey)
+[![Zapier](https://img.shields.io/badge/zapier-FF4F00.svg?style=for-the-badge&logo=zapier&logoColor=white)](https://zapier.com)
 [![Google Apps](https://img.shields.io/badge/google%20apps-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://google.com)
-[![Brave](https://img.shields.io/badge/Brave-%23FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com)
 
 ### 🌐  Hosting 
 
