@@ -21,13 +21,12 @@ situations.
 
 ### Languages 🔤
 
- [![Python](https://img.shields.io/badge/python%20(intermediate)-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
- [![JavaScript](https://img.shields.io/badge/javascript%20(intermediate)-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://tc39.es)
- [![MakeCode Arcade TypeScript](https://img.shields.io/badge/makecode%20arcade%20typescript%20(intermediate)-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://arcade.makecode.com/#editor)
- [![HTML5](https://img.shields.io/badge/html5%20(intermediate)-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
- [![Markdown](https://img.shields.io/badge/markdown%20(intermediate)-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://stackedit.io/app#)
-[![BASH Script](https://img.shields.io/badge/bash_script%20(beginner)-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) [![CSS3](https://img.shields.io/badge/css3%20(beginner)-1036C9.svg?style=for-the-badge&logo=css&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
- [![Scratch](https://img.shields.io/badge/Scratch-%23FF6600.svg?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu)
+ [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
+ [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://tc39.es)
+ [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://arcade.makecode.com/#editor)
+ [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+ [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://stackedit.io/app#)
+[![BASH Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) [![CSS3](https://img.shields.io/badge/css3-1036C9.svg?style=for-the-badge&logo=css&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
  
 ### Developer Tools 🛠
 
