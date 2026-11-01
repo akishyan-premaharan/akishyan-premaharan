@@ -14,7 +14,7 @@ situations.
 |**[ConchEdit](https://github.com/akishyan-premaharan/ConchEdit)**| A developer environment built on BASH, with version control/syntax highlighting, powered by Unix/GNU software|
 |**[Artifical Neuron](https://github.com/akishyan-premaharan/neuron)**| A number prediction neuron built on the PyTorch library|
 |**[Risk Reader](https://github.com/akishyan-premaharan/risk-reader-software)**| An AI-automated risk reader built on Python, to search for unfavourable terms and risks in legal and personal agreements (ToS, Ultimatums, etc.)|
-|**[Procedural Image Engine](https://github.com/akishyan-premaharan/procedural-image-engine)**| A basic 2D image generator made with **the PXT Framework/MakeCode Arcade** TypeScript that makes randomly generated/**computer generated** images!|
+|**[Gesso Model](https://github.com/akishyan-premaharan/gesso-model)**| A basic AI Image Generation model creating with the **PXT Framework!**!|
 |**[Lua Password Generator](https://github.com/akishyan-premaharan/lua-password-generator)**|A password generation algorithm following **real life international cybersecurity** protocols that was made under a personal challenge to try to learn basic Lua!|
 
 # Technology Stack 💻 
